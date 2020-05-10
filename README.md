@@ -3,6 +3,10 @@ Yani en iyi şekilde hareket edebilmek için; hareketli, eylemlerinin uzun vadel
 
 ![](2350632_d5df_2.jpg)
 
+Bu flappy bird uygulamasında kuşlar daha 3. gen aktarımında daha da ileriye gitmeyi başarıyorlar.
+
+![](2350632_d5df_2.jpg)
+
 ### Kurmak
 - npm install
 - npm start
