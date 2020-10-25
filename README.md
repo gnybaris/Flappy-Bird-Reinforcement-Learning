@@ -8,6 +8,9 @@ Bu flappy bird uygulamasında kuşlar daha 3. gen aktarımında daha da ileriye 
 ![](barinmutate.png)
 
 ### Kurmak
+
+ ```sh
 - npm install
 - npm start
 - open `localhost:3000` in your browser
+```
